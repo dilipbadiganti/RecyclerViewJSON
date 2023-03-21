@@ -8,9 +8,6 @@ This project demonstrates how to use RecyclerView, Volley, and Picasso libraries
 
 Screenshots:
 
-![Screenshot_2023-03-21-13-44-58-521_com example recyclerviewjson](https://user-images.githubusercontent.com/67218746/226554730-24900e6e-085c-41f0-9e63-30e69eb82c21.jpg)
-![Screenshot_2023-03-21-13-44-43-330_com example recyclerviewjson](https://user-images.githubusercontent.com/67218746/226554745-89f8a826-b63f-4d87-8036-46024ba22eef.jpg)
-
 
 Features:
 
